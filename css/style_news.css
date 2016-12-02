@@ -1,0 +1,27 @@
+/************basic css***********/
+body {
+	margin: 0;
+	padding: 5px;
+	color: #000;
+	font-size: 14px;
+	font-family: HelveticaNeueLight, Arial, Calibri, sans-serif, 新細明體, 細明體;
+	text-align: justify;
+	background-color: #ffffff;
+}
+
+a:link, a:visited, a:active {
+	color: #419ade;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #6ca1c9;
+	text-decoration: underline;
+}
+
+img {
+	border: 2px solid #ffffff;
+	outline: 1px solid #666666;
+	width: 95%;
+	margin: 5px;
+}

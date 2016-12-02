@@ -1,0 +1,17 @@
+<?php
+require_once ("../models/database_connection.php");
+
+/* model */
+require_once ("./models/header.php");
+require_once ("./models/message.php");
+
+/* controller */
+require_once ("./controllers/header.php");
+require_once ("./controllers/message.php");
+
+/* view */
+require_once ("./views/header.php");
+require_once ("./views/message.php");
+require_once ("./views/footer.php");
+
+?>
